@@ -4,7 +4,7 @@
 // NOTA EN PHP LAS VARIABLES DE ESCRIBEN ANTES CON EL SIGNO DE $
 <?php
 $edad=25;
-if($edad>=5){
+if($edad>=15){
 echo"Eres mayor de edad";
 }
 else{
